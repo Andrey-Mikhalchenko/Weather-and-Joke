@@ -14,6 +14,7 @@
 		B60E91FD1CD297FF00BB3741 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B60E91FB1CD297FF00BB3741 /* LaunchScreen.storyboard */; };
 		B60E92081CD297FF00BB3741 /* Weather_and_JokeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B60E92071CD297FF00BB3741 /* Weather_and_JokeTests.swift */; };
 		B60E92131CD297FF00BB3741 /* Weather_and_JokeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B60E92121CD297FF00BB3741 /* Weather_and_JokeUITests.swift */; };
+		B60E92211CD29CA300BB3741 /* Status-weather-clouds-icon.png in Resources */ = {isa = PBXBuildFile; fileRef = B60E92201CD29CA300BB3741 /* Status-weather-clouds-icon.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		B60E920E1CD297FF00BB3741 /* Weather and JokeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Weather and JokeUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B60E92121CD297FF00BB3741 /* Weather_and_JokeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Weather_and_JokeUITests.swift; sourceTree = "<group>"; };
 		B60E92141CD297FF00BB3741 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B60E92201CD29CA300BB3741 /* Status-weather-clouds-icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Status-weather-clouds-icon.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 				B60E92061CD297FF00BB3741 /* Weather and JokeTests */,
 				B60E92111CD297FF00BB3741 /* Weather and JokeUITests */,
 				B60E91F01CD297FF00BB3741 /* Products */,
+				B60E92201CD29CA300BB3741 /* Status-weather-clouds-icon.png */,
 			);
 			sourceTree = "<group>";
 		};
@@ -232,6 +235,7 @@
 				B60E91FD1CD297FF00BB3741 /* LaunchScreen.storyboard in Resources */,
 				B60E91FA1CD297FF00BB3741 /* Assets.xcassets in Resources */,
 				B60E91F81CD297FF00BB3741 /* Main.storyboard in Resources */,
+				B60E92211CD29CA300BB3741 /* Status-weather-clouds-icon.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
