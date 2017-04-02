@@ -9,6 +9,12 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    @IBOutlet var weatherIcon: UIImageView!
+    @IBOutlet var tempLabel: UILabel!
+    @IBOutlet var weatherDescriptionLabel: UILabel!
+    
+    
 
     override func viewDidLoad() {
         super.viewDidLoad()
